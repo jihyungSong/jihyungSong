@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=Ryan%20JH%20Song&animation=fadeIn&fontSize=40)
 
-<br/>
-<hr>
-<br/>
-
 <a  href="https://hits.seeyoufarm.com"  target="_blank">  
   <img  alt="Hits"  src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjihyungSong&count_bg=%2346D1A7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"  />
 <a  href="https://www.linkedin.com/in/jihyung-song-7859a840/"  target="_blank">  
