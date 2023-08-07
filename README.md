@@ -13,4 +13,4 @@
 <hr>
 <br/>
 
-[![skdud4659's GitHub stats](https://github-readme-stats.vercel.app/api?username=skdud4659&&show_icons=true&theme=dracula)](https://github.com/skdud4659/github-readme-stats)
+[![skdud4659's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyungSong&&show_icons=true&theme=dracula)](https://github.com/skdud4659/github-readme-stats)
